@@ -23,10 +23,19 @@ https://msd.unimelb.edu.au/belt/home/belt-resources/virtual-site-visits/kaltura-
 
 
 ### 全景与平面图的原理
-等距柱面投影 和 立方体贴图
-https://blog.csdn.net/qq114480/article/details/105705668
+* 等距柱面投影 和 立方体贴图
 
-https://www.cnblogs.com/riddick/p/10258216.html
+全景影像与全景球面的关系: https://blog.csdn.net/qq114480/article/details/105705668
+
+全景图转局部平面视图原理详解: https://www.cnblogs.com/riddick/p/10258216.html
+
+* VR 全景图手绘原理论文
+
+使用直尺、指南针和量角器绘制等距柱状 VR 全景图: https://revistas.ucp.pt/index.php/jsta/article/view/7498
+
+为沉浸式全景图绘制等矩形透视图: http://www.univ-ab.pt/~aaraujo/equirectangular.html
+
+尺子、指南针和钉子的全球面透视构造: https://arxiv.org/abs/1511.02969
 
 ## 制作
 1. 用一种360全景网格图辅助，绘制全景图。PS需要支持3d视图的版本
